@@ -15,7 +15,7 @@ This is a simple **Voice Assistant** built using Python and Tkinter. It can list
 Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/voice-assistant.git
+git clone https://github.com/kowshi555/voice-assistant.git
 cd voice-assistant
 
 ### 2. Install Dependencies
